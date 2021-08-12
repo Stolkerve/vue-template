@@ -1,4 +1,4 @@
-# test
+# ecommender
 
 ## Project setup
 ```
