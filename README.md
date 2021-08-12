@@ -1,4 +1,4 @@
-# ecommender
+# vue-template
 
 ## Project setup
 ```
